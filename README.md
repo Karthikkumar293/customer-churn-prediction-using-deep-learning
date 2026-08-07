@@ -1,6 +1,5 @@
 # customer-churn-prediction-using-deep-learning
 
-# Customer Churn Prediction Using Deep Learning
 
 A Deep Learning project that predicts whether a bank customer is likely to leave the bank (churn) or stay using an Artificial Neural Network (ANN) built with TensorFlow and Keras.
 
